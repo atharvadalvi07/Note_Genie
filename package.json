@@ -1,0 +1,28 @@
+{
+     "name": "deepgram-workshop-boilerplate",
+     "version": "0.0.1",
+     "main": "server.js",
+     "scripts": {
+          "start": "node server.js"
+     },
+     "dependencies": {
+          "@deepgram/sdk": "^1.21.0",
+          "@google/generative-ai": "^0.19.0",
+          "express": "^4.17.2",
+          "gojs": "^3.0.11",
+          "google-auth-library": "^9.14.1",
+          "ws": "^8.18.0"
+     },
+     "engines": {
+          "node": "12.x"
+     },
+     "repository": {
+          "url": "https://glitch.com/edit/#!/deepgram-workshop"
+     },
+     "license": "MIT",
+     "keywords": [
+          "node",
+          "glitch",
+          "express"
+     ]
+}

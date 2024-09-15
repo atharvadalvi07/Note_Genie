@@ -1,0 +1,18 @@
+<!doctype html>
+   <html>
+     <head>
+       <meta charset="utf-8">
+       <title>Deepgram Workshop</title>
+       <style>
+         @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700');
+         body { background: #141E29; color: white; font-family: 'Cairo', sans-serif; padding: 1em; }
+         img { width: 100%; }
+         p { font-size: 1.25em; line-height: 1.5; }
+       </style>
+     </head>
+     <body>
+       <img src="https://cdn.glitch.global/d9ff0d46-3907-4198-949e-85228bfb9cbf/long-logo-red.png?v=1641825382593">
+       <p></p>
+       <script src="script.js"></script>
+     </body>
+   </html>
