@@ -22,22 +22,3 @@ https://youtu.be/fpKm-EsFNUE
 ## Setup and Installation
 
 YOU JUST NEED JAVASCRIPT AND YOUR LAPTOP :)
-
-## Usage
-
-[Provide usage instructions here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
-## License
-
-[Specify the license for your project]
-
-## Contact
-
-advgaikw@ttu.edu
-atdalvi@ttu.edu
-suttekar@ttu.edu
-dgarg@ttu.edu
