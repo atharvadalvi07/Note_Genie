@@ -1,4 +1,4 @@
-# Note Genie Lecture Tracker
+# Note Genie Lecture Note Tracker
 
 This project combines various technologies to create an interactive mindmap generator with audio processing and questionnaire generation capabilities.
 
